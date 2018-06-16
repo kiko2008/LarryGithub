@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de hacker único.
 
-**Francisco Fernandez**
+**Francisco Fernandez**, git fan.
 
